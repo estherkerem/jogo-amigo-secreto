@@ -1,3 +1,4 @@
+
 # Amigo Secreto
 
 Este é um projeto simples em JavaScript para sortear amigos de uma lista de nomes. Ele permite adicionar amigos, sortear um nome aleatoriamente e exibir o resultado. Cada nome sorteado é removido da lista, garantindo que não seja sorteado novamente.
@@ -22,3 +23,6 @@ Você pode acessar o sorteador de amigos diretamente pelo link abaixo:
 
 🔗 [Amigo Secreto
 ](https://jogo-amigo-secreto-two.vercel.app/)
+
+
+https://github.com/user-attachments/assets/fa7dfc34-d7b5-4863-81f4-d1e7d1aa6a88
