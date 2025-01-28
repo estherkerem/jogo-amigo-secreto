@@ -16,5 +16,9 @@ Este é um projeto simples em JavaScript para sortear amigos de uma lista de nom
 - **CSS**: Estilização básica da interface.
 - **JavaScript**: Lógica de funcionamento do projeto.
 
+## Como usar
 
-https://github.com/user-attachments/assets/682b73f4-4097-46e6-a51b-40d2ecc51c3c
+Você pode acessar o sorteador de amigos diretamente pelo link abaixo:
+
+🔗 [Amigo Secreto
+](https://jogo-amigo-secreto-two.vercel.app/)
